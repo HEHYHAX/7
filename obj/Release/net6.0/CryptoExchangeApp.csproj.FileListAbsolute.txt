@@ -1,9 +1,0 @@
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.csproj.AssemblyReference.cache
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.AssemblyInfoInputs.cache
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.AssemblyInfo.cs
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.csproj.CoreCompileInputs.cache
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.MvcApplicationPartsAssemblyInfo.cache
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.RazorAssemblyInfo.cache
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.RazorAssemblyInfo.cs
-D:\Учеба 5 курс\ДИПЛОМ\LVLQ\7\obj\Release\net6.0\CryptoExchangeApp.sourcelink.json
