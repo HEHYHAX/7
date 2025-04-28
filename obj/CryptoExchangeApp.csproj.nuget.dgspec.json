@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAV\\CryptoExchangeApp\\CryptoExchangeApp.csproj": {}
+    "D:\\Учеба 5 курс\\ДИПЛОМ\\LVLQ\\7\\CryptoExchangeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAV\\CryptoExchangeApp\\CryptoExchangeApp.csproj": {
+    "D:\\Учеба 5 курс\\ДИПЛОМ\\LVLQ\\7\\CryptoExchangeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAV\\CryptoExchangeApp\\CryptoExchangeApp.csproj",
+        "projectUniqueName": "D:\\Учеба 5 курс\\ДИПЛОМ\\LVLQ\\7\\CryptoExchangeApp.csproj",
         "projectName": "CryptoExchangeApp",
-        "projectPath": "C:\\Users\\LAV\\CryptoExchangeApp\\CryptoExchangeApp.csproj",
+        "projectPath": "D:\\Учеба 5 курс\\ДИПЛОМ\\LVLQ\\7\\CryptoExchangeApp.csproj",
         "packagesPath": "C:\\Users\\LAV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAV\\CryptoExchangeApp\\obj\\",
+        "outputPath": "D:\\Учеба 5 курс\\ДИПЛОМ\\LVLQ\\7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LAV\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,22 +41,20 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -70,6 +68,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -78,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
